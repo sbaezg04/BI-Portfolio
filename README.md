@@ -22,9 +22,7 @@ Actualmente me encuentro aprendiendo y practicando con **Power BI** y **Tableau*
   - Comparación de utilidad entre categorías (Electrónica, Muebles, Ropa).  
 - 🖼️ **Preview:**  
   ![Informe de Ventas 2024](img/informe-ventas-2024.png)
-
----
-
+  
 ## 🧠 Lo que aprendí con este proyecto
 - Cómo conectar y limpiar datos en Power BI.  
 - Uso de segmentadores (filtros dinámicos por categoría, departamento y fechas).  
