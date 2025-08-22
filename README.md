@@ -25,7 +25,7 @@ Actualmente me encuentro aprendiendo y practicando con **Power BI** y **Tableau*
 - 🖼️ **Preview:**  
  
   
-## 🧠 Lo que aprendí con este proyecto
+##  Lo que aprendí con este proyecto
 - Cómo conectar y limpiar datos en Power BI.  
 - Uso de segmentadores (filtros dinámicos por categoría, departamento y fechas).  
 - Creación de visualizaciones básicas: gráficos de barras, pastel y tablas dinámicas.  
