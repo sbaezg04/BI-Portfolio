@@ -19,8 +19,8 @@ Actualmente me encuentro aprendiendo y practicando con **Power BI** y **Tableau*
 - **Highlights:**  
   - Distribución de ventas por departamento.  
   - Identificación de medios de pago más utilizados.  
-  - Comparación de utilidad entre categorías (Electrónica, Muebles, Ropa).  
--**Dashboard interactivo en Power BI:** [Abrir aquí](https://app.powerbi.com/groups/me/reports/9ab571ab-98b2-4bbc-b913-73af220aa1b7/34f8c35c70d44e71c4c0?experience=power-bi)
+  - Comparación de utilidad entre categorías (Electrónica, Muebles, Ropa).
+- **Dashboard interactivo en Power BI:** [Abrir aquí](https://app.powerbi.com/groups/me/reports/9ab571ab-98b2-4bbc-b913-73af220aa1b7/34f8c35c70d44e71c4c0?experience=power-bi)
   
 - 🖼️ **Preview:**  
  
