@@ -32,6 +32,6 @@ Actualmente me encuentro aprendiendo y practicando con **Power BI** y **Tableau*
 ---
 
 ## 📬 Contacto
-- LinkedIn: [Tu perfil aquí](www.linkedin.com/in/santiago-baez-gongora)  
+- LinkedIn: (www.linkedin.com/in/santiago-baez-gongora)  
 - Correo: **sbaezgongora@gmail.com**
   
