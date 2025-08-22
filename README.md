@@ -22,6 +22,7 @@ Actualmente me encuentro aprendiendo y practicando con **Power BI** y **Tableau*
   - Comparación de utilidad entre categorías (Electrónica, Muebles, Ropa).  
 - 🖼️ **Preview:**  
   https://app.powerbi.com/groups/me/reports/9ab571ab-98b2-4bbc-b913-73af220aa1b7/34f8c35c70d44e71c4c0?experience=power-bi
+- **Dashboard interactivo en Power BI:** [Abrir aquí](https://app.powerbi.com/groups/me/reports/9ab571ab-98b2-4bbc-b913-73af220aa1b7/34f8c35c70d44e71c4c0?experience=power-bi)
   
 ## 🧠 Lo que aprendí con este proyecto
 - Cómo conectar y limpiar datos en Power BI.  
