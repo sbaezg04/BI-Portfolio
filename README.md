@@ -23,7 +23,8 @@ Actualmente me encuentro aprendiendo y practicando con **Power BI** y **Tableau*
 - **Dashboard interactivo en Power BI:** [Abrir aquí](https://app.powerbi.com/groups/me/reports/9ab571ab-98b2-4bbc-b913-73af220aa1b7/34f8c35c70d44e71c4c0?experience=power-bi)
   
 - 🖼️ **Preview:**  
- 
+ ![Informe de Ventas 2024](previews/Informe%20de%20ventas%202024%20.png)
+
   
 ##  Lo que aprendí con este proyecto
 - Cómo conectar y limpiar datos en Power BI.  
