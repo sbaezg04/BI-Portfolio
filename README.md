@@ -47,8 +47,7 @@ Actualmente me encuentro aprendiendo y practicando con **Power BI** y **Tableau*
   - ¿Qué tan alineados están uso de la app, gasto y satisfacción?  
   - ¿Qué segmentos requieren estrategias de retención?
 
-- **Resultados (Dashboard interactivo):**  
-  [Abrir aquí](https://app.powerbi.com/view?r=eyJrIjoiMjhmMTdhYjMtNzEzYS00NWJmLTgwNzktZjY5NWNjMTNhMGFjIiwidCI6IjA5NTMyOTYzLTYxMjEtNDlkNy05NGNhLTBiYWFhNjJhMzExNiIsImMiOjR9&pageName=ff73072db8a36e27c9d8)
+- **Resultados (Dashboard interactivo):** [Abrir aquí](https://app.powerbi.com/view?r=eyJrIjoiMjhmMTdhYjMtNzEzYS00NWJmLTgwNzktZjY5NWNjMTNhMGFjIiwidCI6IjA5NTMyOTYzLTYxMjEtNDlkNy05NGNhLTBiYWFhNjJhMzExNiIsImMiOjR9&pageName=ff73072db8a36e27c9d8)
 
 - 🖼️ **Preview:**  
   ![Fintech LiviPay](previews/Livipay%20Digital%20Wallet%20LTV%20ss.png)
