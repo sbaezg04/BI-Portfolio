@@ -33,6 +33,40 @@ Actualmente me encuentro aprendiendo y practicando con **Power BI** y **Tableau*
 - Importancia de presentar insights de manera clara y ordenada.  
 
 ---
+### 2) Fintech Customer Analytics — LiviPay (Power BI)
+
+- **Contexto:** Partí de un dataset de Kaggle diseñado para predecir el *Customer Lifetime Value (LTV)* de usuarios de billeteras digitales (PayTM, Khalti). Para darle un enfoque de negocio, creé una fintech ficticia llamada **LiviPay**, con el objetivo de analizar cómo los clientes generan valor, qué factores impulsan su satisfacción y qué segmentos presentan riesgo de fuga.
+
+- **Transformaciones iniciales:**  
+  El dataset original estaba en **rupias (INR)**, por lo que realicé la conversión a **dólares (USD)** para facilitar la interpretación y hacerlo más relevante en un contexto internacional.  
+  Además, exploré 7.000 registros con 20 variables (edad, ingresos, transacciones, uso de app, soporte al cliente, cashback, etc.).
+
+- **Acción:**  
+  Construí un dashboard en **Power BI** que responde a preguntas clave como:  
+  - ¿Qué perfiles de clientes aportan mayor LTV?  
+  - ¿Qué tan alineados están uso de la app, gasto y satisfacción?  
+  - ¿Qué segmentos requieren estrategias de retención?
+
+- **Resultados (Dashboard interactivo):**  
+  [Abrir aquí](https://app.powerbi.com/view?r=eyJrIjoiMjhmMTdhYjMtNzEzYS00NWJmLTgwNzktZjY5NWNjMTNhMGFjIiwidCI6IjA5NTMyOTYzLTYxMjEtNDlkNy05NGNhLTBiYWFhNjJhMzExNiIsImMiOjR9&pageName=ff73072db8a36e27c9d8)
+
+- 🖼️ **Preview:**  
+  ![Fintech LiviPay](previews/Fintech%20LiviPay.png)
+
+---
+
+## 🔎 Insights clave de este caso
+1. **Clientes urbanos y de ingresos altos** concentran el mayor LTV, siendo los más estratégicos para la fintech.  
+2. **Usuarios diarios de la app** generan más gasto y muestran mayor satisfacción, confirmando la importancia de fomentar el engagement digital.  
+3. Existe un grupo de **clientes de alto LTV pero baja satisfacción**, lo que representa un riesgo de fuga y la necesidad de planes de retención personalizados.
+
+---
+
+## 📚 Lo que aprendí con este proyecto
+- La importancia de **transformar y contextualizar datasets** (ejemplo: conversión de rupias a dólares) para que los insights sean relevantes en distintos mercados.  
+- Cómo diseñar un dashboard que combine **KPIs ejecutivos, análisis de comportamiento y segmentación de clientes** para ofrecer una visión integral del negocio.  
+- La necesidad de traducir datos en **acciones estratégicas**: identificar clientes en riesgo, medir el impacto de incentivos (cashback, referrals) y proponer mejoras en experiencia al cliente.
+
 
 ## 📬 Contacto
 - LinkedIn: (www.linkedin.com/in/santiago-baez-gongora)  
