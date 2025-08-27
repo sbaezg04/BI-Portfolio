@@ -53,16 +53,12 @@ Actualmente me encuentro aprendiendo y practicando con **Power BI** y **Tableau*
 - 🖼️ **Preview:**  
   ![Fintech LiviPay](previews/Livipay%20Digital%20Wallet%20LTV%20ss.png)
 
----
-
-## 🔎 Insights clave de este caso
+## Insights clave de este caso
 1. **Clientes urbanos y de ingresos altos** concentran el mayor LTV, siendo los más estratégicos para la fintech.  
 2. **Usuarios diarios de la app** generan más gasto y muestran mayor satisfacción, confirmando la importancia de fomentar el engagement digital.  
 3. Existe un grupo de **clientes de alto LTV pero baja satisfacción**, lo que representa un riesgo de fuga y la necesidad de planes de retención personalizados.
 
----
-
-## 📚 Lo que aprendí con este proyecto
+## Lo que aprendí con este proyecto
 - La importancia de **transformar y contextualizar datasets** (ejemplo: conversión de rupias a dólares) para que los insights sean relevantes en distintos mercados.  
 - Cómo diseñar un dashboard que combine **KPIs ejecutivos, análisis de comportamiento y segmentación de clientes** para ofrecer una visión integral del negocio.  
 - La necesidad de traducir datos en **acciones estratégicas**: identificar clientes en riesgo, medir el impacto de incentivos (cashback, referrals) y proponer mejoras en experiencia al cliente.
